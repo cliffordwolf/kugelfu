@@ -12,6 +12,8 @@ dosbox -conf dosbox.conf start.bat
 
 Havy Fun!
 
- - Clifford
+ -- Clifford
 
 PS: "Kugel" is the german word for sphere.
+
+PPS: I was ~14 when I wrote this. Don't expect much!
