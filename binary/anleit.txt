@@ -1,0 +1,117 @@
+Diese Textdatei ist Teil des Programmes
+KUGELFU. Der urheberrechtliche Schutz des
+Programmes gilt auch fuer diese Textdatei.
+
+
+
+                        SPIEL-ANLEITUNG ZU KUGELFU
+
+
+- 1 Sharewarehinweis
+
+    KUGELFU ist ein Sharewarespiel. Das bedeutet, dass Sie nur die Demo-
+version an andere weitergeben und kopieren duerfen. Da die Demoversion einige
+Einschraenkungen gegenueber der Vollversion besitzt (leastige Shareware-
+hinweise waehrend des Spiels, weniger Computergegner) koennte es sein,
+dass Sie an der Vollversion interessiert sind. Diese koennen Sie
+mittels Bestellformular (Datei BESTELL.TXT) erhalten. Die Vollversion
+darf nicht an andere weitergegeben oder kopiert werden.
+
+
+- 2 Vor dem Spiel
+
+- 2.1 Die Sound-Konfiguration
+
+    Bevor Sie zu spielen beginnen, muessen Sie die Sound-Konfiguration
+vornehmen. Das dafuer zustaendige Menue wird automatisch nach dem Programm-
+start aktiviert. Sollten die angezeigten Einstellungen korrekt sein, brauchen
+Sie nur CORRECT mit den Cursortasten anzuwaehlen und anschliessend mit ENTER
+bestaetigen. Andernfalls waehlen Sie NOT CORRECT. Falls Sie NOT CORRECT
+angewaehlt haben, werden Sie eine Reihe von Fragen beantworten muessen.
+Ihre Einstellung wird automatisch gespeichert werden; darum muessen Sie nur 
+einmal die Sound-Konfiguration vornehmen, bei allen weiteren Programmaufrufen
+brauchen Sie nur noch die angezeigte Konfiguration zu bestaetigen.
+
+- 2.2 Das Hauptmenue
+
+    Nach Beenden der Sound-Konfiguration gelangen Sie in das Hauptmenue.
+Hier werden Ihnen die aktiven Kontrahenten angezeigt; Sie kînnen mittels
+der ersten beiden Menuepunkte die Kaempfer auswaehlen, Sie kînnen den Kampf 
+mit dem dritten Menuepunkt starten und mit dem letzten Menuepunkt das
+Programm beenden.
+
+- 2.3 Die Wahl der Kaempfer
+
+    Wenn Sie im Hauptmenue SELECT PLAYER 1 oder SELECT PLAYER 2 angewaehlt
+haben, gelangen Sie in das Kaempfer-Auswahl-Menue. Hier werden Ihnen zwei
+Moeglichkeiten, die Spielfiguren mit der Tastatur zu steuern und 5 moegliche
+Computergegner angeboten. Waehlen Sie die gewuenschte Einstellung.
+Anschliessend gelangen Sie wieder ins Hauptmenue zurueck.
+
+- 3 Der Kampf
+
+    Wenn Sie im Hauptmenue START GAME angewaehlt haben, startet der Kampf.
+Sollten Sie sowohl fuer Spieler 1 als auch fuer Spieler 2 einen Computer-
+gegner gewaehlt haben, dann koennen sie das Kampfgeschehen in keiner Weise
+beeinflussen. Haben Sie fuer einen oder fuer beide Spieler die Tastatur-
+steuerung gewaehlt, dann wird der jeweilige Spieler ausschliesslich von Ihnen
+gelenkt. Die Tasten, welche fÅr die jeweiligen Aktionen stehen, koennen Sie
+nachfolgender Tabelle entnehmen.
+
+- 3.1 Die Schlaege
+
+ AKTION                  TASTATUR LINKS      TASTATUR RECHTS
+                         (Buchstaben)        (numerischer Ziffernblock)
+
+ gehe nach links         A                   4 (Pfeil links)
+ gehe nach rechts        D                   6 (Pfeil rechts)
+
+ Springe nach links      Q                   7 (Pos1)
+ Springe nach oben       W                   8 (Pfeil hinauf)
+ Springe nach rechts     E                   9 (Bild hinauf)
+
+ Ducken                  SPACE               0 (Einfg)
+ Decken                  S                   5
+ Aufstehen               F                   ENTER
+
+ Fusskick                X                   2 (Pfeil hinunter)
+ Punch                   T                   -
+
+ Feger                   Y                   1 (Ende)
+ Drehkick                R                   +
+
+ Bauchkick               B                   /
+ Kreiselpunch            G                   *
+ Radkick                 C                   3 (Bild hinunter)
+ Beamen                  V                   , (Entf)
+
+- 3.2 Tips & Tricks
+
+ *) Die Deckung nuetzt nur gegen Fusskicks, Puches, Kreiselpunches und 
+    Radkicks; nicht aber gegen den Bauchkick, Feger und Drehkick. Bei Feger 
+    und Drehkick sollte man dem Gegner mit einem schnellen Punch oder Fusskick
+    zuvorkommen. Wenn der Gegner einen Bauchkick anwendet, hilft nur ducken!
+
+ *) Waerend eines Bauchkicks ist der Gegner bewegungsunfaehig. Sollte Ihr
+    Gegner waehrend des Kicks direkt vor Ihnen stehen, koennen sie (sobald
+    die Bauchkugel an Ihnen vorueber ist) mit einem Radkick aus dem Ducken
+    aufstehen und so Ihren Gegner treffen.
+
+ *) Sie sollten (wenn moeglich) oefter beamen als springen. Man beamt viel
+    schneller als man springt und ein springender Kaempfer kann von seinem
+    Gegner problemlos mit einem Radkick vom Himmel geholt werden.
+
+ *) Wenn Sie sich in einem Sprung direkt ueber einem Gegner befinden, koennen
+    Sie sich mit der Drehkick-Taste auf den Gegner fallen lassen. Wenn dieser
+    weder deckt noch einen Kreiselpunch oder Radkick ausfuehrt, koennen Sie
+    ihn von oben treffen.
+
+- 4 Das Spiel beenden
+
+    Wenn Sie sich im Hauptmenue befinden, dann koennen Sie mittels des Menue-
+punktes QUIT TO DOS das Spiel beenden. Wenn gerade ein Kampf laeuft, dann
+koennen Sie durch Druecken der ESC Taste den Kampf abbrechen.
+
+
+
+ !!! Ich wuensche Ihnen viel Spass mit KUGELFU !!!
